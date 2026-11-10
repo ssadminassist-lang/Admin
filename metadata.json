@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Inventario de Blusas",
+  "description": "Sistema administrativo completo para control de inventario de blusas, variantes por color y talla, registro de entradas y salidas, alertas y reportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
